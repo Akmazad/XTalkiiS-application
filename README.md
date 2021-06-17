@@ -1,1 +1,4 @@
-# XTalkiiS-application
+# High-quality Inter-species cross-talk identfication from dual RNA-seq transcriptomic data using XTalkiiS tool.
+
+## Introduction
+XTalkiiS, a tool for finding data-driven cross-talks between intra-/inter-species pathways depends on a gene dependency network as a input. For intra-species pathway network, such gene-dependecy network can be easily built using guilt-by-association modelling among all participating genes using some state-of-the-arts techniques, e.g. WCGNA (correlation-based), BNMCMC (causal relationship), etc. However, for inter-species conditions, it is very difficult to model such networks as to model high quality association between two species (e.g. Host-pathogen), we need matched omics data. Fortunately, dualRNA-seq studies are one of such techniques which generates total RNA-seq transcriptomics of host and pathogens simultaneously. Hence, modelling a robust gene-dependency networks combining host-pathogen dual RNA-seq data using both
