@@ -16,3 +16,7 @@ XTalkiiS, a tool for finding data-driven cross-talks between intra-/inter-specie
 - Annotation of those yielded cross-talks with drug targets and their multi-modal similarity information
 - Generating network-based analytics of those cross-talks types markers
 - Advanced visualiztion of those results using drugly package, or [COVID-CDR](https://unsw-data-analytics.shinyapps.io/COVID_CombTherap/)  type platforms
+
+## literature
+- [Predicting Inter-Species Cross-Talk in Two-Component Signalling Systems](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0037737)
+- 
