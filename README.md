@@ -19,4 +19,4 @@ XTalkiiS, a tool for finding data-driven cross-talks between intra-/inter-specie
 
 ## literature
 - [Predicting Inter-Species Cross-Talk in Two-Component Signalling Systems](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0037737)
-- 
+- [Modeling of signaling crosstalk-mediated drug resistance and its implications on drug combination](https://www.oncotarget.com/article/11745/text/)
