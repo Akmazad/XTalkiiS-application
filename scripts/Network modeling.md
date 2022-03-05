@@ -18,4 +18,5 @@
 #### Method
 - Correlation (undirected network): the edges could be modeled based on all pair-wise correlations among expression vectors, followed by a threshold (could be preset or inferred). Python or R package could be available to compute the correlations.
 - Causal network: the edges could be modeled via some graphical models (e.g. Bayesian network) based on the expression vectors. R-package called `bnlearn` has a bunch of methods implemented for this.
-- 
+- Deep learning based approach
+- Probabilistic modeling of "A" network, that is initially data-driven (Exponential random graph model[https://socialabstractions-blog.tumblr.com/post/53391947460/exponential-random-graph-models-in-python])
